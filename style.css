@@ -58,12 +58,12 @@ body {
 
   .imagem {
     text-align: center;
+     width: 100%;
   }
   
-  article img {
+  .imagem img {
     max-width: 90%;
     border-radius: 8px;
-    margin: 15px 0;
   }
   
   footer {
